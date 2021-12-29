@@ -1,0 +1,25 @@
+body {
+  background-color: #e0ebe8;
+  font-family: Akkurat Pro;
+}
+
+h1{
+color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+hr{
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img{
+  width :150px;
+  height :150px;
+}
